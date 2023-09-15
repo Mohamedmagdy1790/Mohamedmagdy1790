@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamedmagdy
-- 👀 I’m interested in WeBdevelopment,software design,solving new proplems.
-- 🌱 I’m currently learning angular, testing,backend engineering,designpatterns
+- 👀 I’m interested in Webdevelopment,software design,solving new proplems.
+- 🌱 I’m currently learning angular, testing, backend engineering, design patterns
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
                   -  email: mmagdy3396@gmail.com
