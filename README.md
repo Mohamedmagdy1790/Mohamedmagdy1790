@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohamedmagdy
-- 👀 I’m interested in Webdevelopment,software design,solving new proplems.
+- 👀 I’m interested in Web development,software design,solving new proplems.
 - 🌱 I’m currently learning angular, testing, backend engineering, design patterns
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
